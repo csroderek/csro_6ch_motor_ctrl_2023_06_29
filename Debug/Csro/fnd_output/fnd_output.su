@@ -1,0 +1,2 @@
+../Csro/fnd_output/fnd_output.c:19:6:fnd_output_gpio_write_relays	24	static
+../Csro/fnd_output/fnd_output.c:27:6:fnd_output_update_value	4	static

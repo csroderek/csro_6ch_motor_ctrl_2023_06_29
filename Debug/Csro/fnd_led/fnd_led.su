@@ -1,0 +1,2 @@
+../Csro/fnd_led/fnd_led.c:3:6:fnd_led_init	4	static
+../Csro/fnd_led/fnd_led.c:7:6:fnd_led_update	4	static

@@ -1,0 +1,17 @@
+mb_slave.c:22:13:slave_crc16	2
+mb_slave.c:34:19:slave_validate_cmd	12
+mb_slave.c:69:13:slave_handle_read_discs	8
+mb_slave.c:110:13:slave_handle_read_coils	8
+mb_slave.c:151:13:slave_handle_read_input_regs	3
+mb_slave.c:174:13:slave_handle_read_holding_regs	3
+mb_slave.c:197:13:slave_compose_write_reply_tx_buffer	1
+mb_slave.c:206:13:slave_handle_write_single_coil	2
+mb_slave.c:223:13:slave_handle_write_multi_coils	3
+mb_slave.c:244:13:slave_handle_write_single_holding_reg	2
+mb_slave.c:261:13:slave_handle_write_multi_holding_regs	3
+mb_slave.c:282:13:slave_response	10
+mb_slave.c:336:13:ostimer_callback	2
+mb_slave.c:346:6:slave_init	1
+mb_slave.c:356:6:slave_uart_idle	3
+mb_slave.c:367:6:slave_set_tx_rx	1
+mb_slave.c:372:6:slave_wait_request	4

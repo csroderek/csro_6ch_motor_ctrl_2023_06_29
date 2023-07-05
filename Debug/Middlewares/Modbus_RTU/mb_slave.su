@@ -1,0 +1,17 @@
+../Middlewares/Modbus_RTU/mb_slave.c:22:13:slave_crc16	16	static
+../Middlewares/Modbus_RTU/mb_slave.c:34:19:slave_validate_cmd	16	static
+../Middlewares/Modbus_RTU/mb_slave.c:69:13:slave_handle_read_discs	32	static
+../Middlewares/Modbus_RTU/mb_slave.c:110:13:slave_handle_read_coils	32	static
+../Middlewares/Modbus_RTU/mb_slave.c:151:13:slave_handle_read_input_regs	24	static
+../Middlewares/Modbus_RTU/mb_slave.c:174:13:slave_handle_read_holding_regs	24	static
+../Middlewares/Modbus_RTU/mb_slave.c:197:13:slave_compose_write_reply_tx_buffer	16	static
+../Middlewares/Modbus_RTU/mb_slave.c:206:13:slave_handle_write_single_coil	24	static
+../Middlewares/Modbus_RTU/mb_slave.c:223:13:slave_handle_write_multi_coils	24	static
+../Middlewares/Modbus_RTU/mb_slave.c:244:13:slave_handle_write_single_holding_reg	24	static
+../Middlewares/Modbus_RTU/mb_slave.c:261:13:slave_handle_write_multi_holding_regs	24	static
+../Middlewares/Modbus_RTU/mb_slave.c:282:13:slave_response	16	static
+../Middlewares/Modbus_RTU/mb_slave.c:336:13:ostimer_callback	24	static
+../Middlewares/Modbus_RTU/mb_slave.c:346:6:slave_init	24	static
+../Middlewares/Modbus_RTU/mb_slave.c:356:6:slave_uart_idle	24	static
+../Middlewares/Modbus_RTU/mb_slave.c:367:6:slave_set_tx_rx	16	static
+../Middlewares/Modbus_RTU/mb_slave.c:372:6:slave_wait_request	16	static

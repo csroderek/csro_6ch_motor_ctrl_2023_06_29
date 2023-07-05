@@ -1,0 +1,16 @@
+mb_master.c:22:13:master_crc16	2
+mb_master.c:34:19:master_validate_reply	6
+mb_master.c:53:19:master_request	5
+mb_master.c:90:13:ostimer_callback	2
+mb_master.c:100:6:master_init	1
+mb_master.c:109:6:master_set_tx_rx	1
+mb_master.c:114:6:master_uart_idle	3
+mb_master.c:125:13:master_compose_tx_buffer	1
+mb_master.c:135:12:master_read_discs	5
+mb_master.c:155:12:master_read_coils	5
+mb_master.c:175:12:master_read_input_regs	4
+mb_master.c:195:12:master_read_holding_regs	4
+mb_master.c:215:12:master_write_single_coil	6
+mb_master.c:231:12:master_write_multi_coils	9
+mb_master.c:268:12:master_write_single_holding_reg	4
+mb_master.c:284:12:master_write_multi_holding_regs	5

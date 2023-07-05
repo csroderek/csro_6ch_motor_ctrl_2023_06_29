@@ -1,0 +1,3 @@
+fnd_input.c:31:6:fnd_input_gpio_read_user_keys	2
+fnd_input.c:39:6:fnd_input_gpio_read_user_di	2
+fnd_input.c:47:6:fnd_input_update_value	3

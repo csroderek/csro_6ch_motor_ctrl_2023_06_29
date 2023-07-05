@@ -1,0 +1,2 @@
+../Csro/fnd_rf433/fnd_rf433.c:8:6:fnd_rf433_handle_duration	56	static
+../Csro/fnd_rf433/fnd_rf433.c:59:6:fnd_rf433_signal_received	16	static
